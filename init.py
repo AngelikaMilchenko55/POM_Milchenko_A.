@@ -1,7 +1,6 @@
 from basePage import BasePage
 from LOCATORS import Locators
 
-
 class YandexSearcher(BasePage):
     def enter_word(self, word):
         search_field = self.driver.find_element(Locators.search_field[0], Locators.search_field[1])
