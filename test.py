@@ -2,7 +2,6 @@ import pytest
 from init import YandexSearcher
 import time
 
-
 @pytest.fixture()
 def yandex_page():
     return YandexSearcher()
