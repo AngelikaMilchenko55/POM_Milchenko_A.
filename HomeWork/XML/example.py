@@ -17,7 +17,7 @@ class Person:
         last_name = ET.SubElement(person, "last_name")#создаем тег (или ветку) <last_name>, которая лежит в <person>
         last_name.text = self.last_name
         birthdate = ET.SubElement(person, "birth_date")
-        birth_day = ET.SubElement(birthdate, "birth_day")
+        birth_day = ET.SubElement(birthdate, "birth_day")#добавлены теги для ввода дня, месяца года рождения, которые лежат в теге <birthdate>
         birth_day.text = str(self.birth_day)
         birth_month = ET.SubElement(birthdate, "birth_month")
         birth_month.text = str(self.birth_month)
