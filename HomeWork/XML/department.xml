@@ -1,0 +1,28 @@
+<department>
+    <person>
+        <name>Ivan</name>
+        <last_name>Ivanov</last_name>
+        <birth_date>
+            <birth_day>12</birth_day>
+            <birth_month>10</birth_month>
+            <birth_year>1980</birth_year>
+        </birth_date>
+        <phone>
+            <phone_code>933</phone_code>
+            <phone_number>5550000</phone_number>
+        </phone>
+    </person>
+    <person>
+        <name>Petr</name>
+        <last_name>Petrov</last_name>
+        <birth_date>
+            <birth_day>10</birth_day>
+            <birth_month>5</birth_month>
+            <birth_year>1988</birth_year>
+        </birth_date>
+        <phone>
+            <phone_code>977</phone_code>
+            <phone_number>1112222</phone_number>
+        </phone>
+    </person>
+</department>
