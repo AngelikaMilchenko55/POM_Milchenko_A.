@@ -1,0 +1,10 @@
+[19:49:33 23-10-2022] - C:\Users\angel\PycharmProjects\Homework1\calculator.py : calculator - INFO: start calculator()
+[19:49:33 23-10-2022] - C:\Users\angel\PycharmProjects\Homework1\calculator.py : calculator - INFO: addition done
+[19:49:33 23-10-2022] - C:\Users\angel\PycharmProjects\Homework1\calculator.py : calculator - INFO: subtraction done
+[19:49:33 23-10-2022] - C:\Users\angel\PycharmProjects\Homework1\calculator.py : calculator - INFO: multiplication done
+[19:49:33 23-10-2022] - C:\Users\angel\PycharmProjects\Homework1\calculator.py : calculator - ERROR: ZeroDivisionError
+Traceback (most recent call last):
+  File "C:\Users\angel\PycharmProjects\Homework1\calculator.py", line 14, in calculator
+    print(a,"/", b, "=", a/b)
+ZeroDivisionError: division by zero
+[19:49:33 23-10-2022] - C:\Users\angel\PycharmProjects\Homework1\calculator.py : calculator - INFO: end calculator()
